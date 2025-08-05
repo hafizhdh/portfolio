@@ -409,7 +409,7 @@ export default function Portfolio() {
             />
           </div>
           <div className="space-y-4 max-w-3xl mx-auto">
-            <h2 className="text-4xl font-bold">Hi, I'm Hafiz!</h2>
+            <h2 className="text-4xl font-bold">Hi, I&apos;m Hafiz!</h2>
             <p className="text-xl text-muted-foreground leading-relaxed">
               Software Engineer and recent Universitas Indonesia CS graduate with a strong foundation in algorithms,
               data structures, and object-oriented design. Proven ability to build clean, scalable, and maintainable
